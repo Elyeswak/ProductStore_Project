@@ -1,0 +1,215 @@
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Console.exe
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Console.deps.json
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Console.runtimeconfig.json
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Console.runtimeconfig.dev.json
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Console.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Console.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.csproj.AssemblyReference.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.AssemblyInfoInputs.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.AssemblyInfo.cs
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.csproj.CoreCompileInputs.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.genruntimeconfig.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.csproj.CopyComplete
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Data.pdb
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Console.exe
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Console.deps.json
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Console.runtimeconfig.json
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Console.runtimeconfig.dev.json
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Console.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Console.pdb
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Data.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Domain.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Service.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Service.pdb
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Data.pdb
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.csproj.AssemblyReference.cache
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.AssemblyInfoInputs.cache
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.AssemblyInfo.cs
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.csproj.CoreCompileInputs.cache
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.csproj.CopyComplete
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.pdb
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.genruntimeconfig.cache
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Console.exe
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Console.deps.json
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Console.runtimeconfig.json
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Console.runtimeconfig.dev.json
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Console.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Console.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.csproj.AssemblyReference.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.AssemblyInfoInputs.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.AssemblyInfo.cs
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.csproj.CoreCompileInputs.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.csproj.CopyComplete
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\obj\Debug\netcoreapp3.1\PS.Console.genruntimeconfig.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Console\bin\Debug\netcoreapp3.1\ServicePattern.pdb

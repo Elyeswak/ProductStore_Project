@@ -1,0 +1,47 @@
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.deps.json
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.AssemblyReference.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfoInputs.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfo.cs
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CoreCompileInputs.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CopyComplete
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Data.pdb
+D:\Projets\.Net\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.deps.json
+D:\Projets\.Net\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.pdb
+D:\Projets\.Net\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Data.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Domain.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Data.pdb
+D:\Projets\.Net\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+D:\Projets\.Net\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.AssemblyReference.cache
+D:\Projets\.Net\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\.Net\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfoInputs.cache
+D:\Projets\.Net\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfo.cs
+D:\Projets\.Net\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CoreCompileInputs.cache
+D:\Projets\.Net\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CopyComplete
+D:\Projets\.Net\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.deps.json
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.AssemblyReference.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfoInputs.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfo.cs
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CoreCompileInputs.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CopyComplete
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\ServicePattern.pdb

@@ -1,0 +1,30 @@
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
+D:\Projets\.Net\ProductStore\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+D:\Projets\.Net\ProductStore\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+D:\Projets\.Net\ProductStore\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+D:\Projets\.Net\ProductStore\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\.Net\ProductStore\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+D:\Projets\.Net\ProductStore\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+D:\Projets\.Net\ProductStore\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+D:\Projets\.Net\ProductStore\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb

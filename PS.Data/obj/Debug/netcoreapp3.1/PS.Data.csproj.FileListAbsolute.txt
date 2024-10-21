@@ -1,0 +1,42 @@
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.deps.json
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.AssemblyReference.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfoInputs.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfo.cs
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CoreCompileInputs.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CopyComplete
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.pdb
+D:\Projets\.Net\ProductStore\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.deps.json
+D:\Projets\.Net\ProductStore\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.pdb
+D:\Projets\.Net\ProductStore\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+D:\Projets\.Net\ProductStore\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.AssemblyReference.cache
+D:\Projets\.Net\ProductStore\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\.Net\ProductStore\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfoInputs.cache
+D:\Projets\.Net\ProductStore\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfo.cs
+D:\Projets\.Net\ProductStore\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CoreCompileInputs.cache
+D:\Projets\.Net\ProductStore\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CopyComplete
+D:\Projets\.Net\ProductStore\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.dll
+D:\Projets\.Net\ProductStore\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.deps.json
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.json
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.dev.json
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.AssemblyReference.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfoInputs.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfo.cs
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CoreCompileInputs.cache
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CopyComplete
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\xmr0j\Documents\Visual Studio C# Projects\ProductStore\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.genruntimeconfig.cache

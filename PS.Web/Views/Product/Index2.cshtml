@@ -1,0 +1,13 @@
+﻿@model IEnumerable<PS.Domain.Product>
+@{
+    ViewData["Title"] = "Index2";
+}
+
+<h1>Index2</h1>
+
+@foreach (var item in Model)
+{
+    <hr />
+    <partial name="_Details" model="item" />
+    <hr />
+}

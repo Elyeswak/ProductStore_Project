@@ -1,0 +1,354 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Console\\PS.Console.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Console\\PS.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Console\\PS.Console.csproj",
+        "projectName": "PS.Console",
+        "projectPath": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Console\\PS.Console.csproj",
+        "packagesPath": "C:\\Users\\xmr0j\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xmr0j\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Domain\\PS.Domain.csproj": {
+                "projectPath": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Domain\\PS.Domain.csproj"
+              },
+              "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Service\\PS.Service.csproj": {
+                "projectPath": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Service\\PS.Service.csproj"
+              },
+              "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\ServicePattern\\ServicePattern.csproj": {
+                "projectPath": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\ServicePattern\\ServicePattern.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Data\\PS.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Data\\PS.Data.csproj",
+        "projectName": "PS.Data",
+        "projectPath": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Data\\PS.Data.csproj",
+        "packagesPath": "C:\\Users\\xmr0j\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xmr0j\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Domain\\PS.Domain.csproj": {
+                "projectPath": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Domain\\PS.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Domain\\PS.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Domain\\PS.Domain.csproj",
+        "projectName": "PS.Domain",
+        "projectPath": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Domain\\PS.Domain.csproj",
+        "packagesPath": "C:\\Users\\xmr0j\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xmr0j\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Service\\PS.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Service\\PS.Service.csproj",
+        "projectName": "PS.Service",
+        "projectPath": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Service\\PS.Service.csproj",
+        "packagesPath": "C:\\Users\\xmr0j\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xmr0j\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Data\\PS.Data.csproj": {
+                "projectPath": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Data\\PS.Data.csproj"
+              },
+              "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Domain\\PS.Domain.csproj": {
+                "projectPath": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Domain\\PS.Domain.csproj"
+              },
+              "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\ServicePattern\\ServicePattern.csproj": {
+                "projectPath": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\ServicePattern\\ServicePattern.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\ServicePattern\\ServicePattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\ServicePattern\\ServicePattern.csproj",
+        "projectName": "ServicePattern",
+        "projectPath": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\ServicePattern\\ServicePattern.csproj",
+        "packagesPath": "C:\\Users\\xmr0j\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\ServicePattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xmr0j\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Data\\PS.Data.csproj": {
+                "projectPath": "C:\\Users\\xmr0j\\Documents\\Visual Studio C# Projects\\ProductStore\\ProductStore\\PS.Data\\PS.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
